@@ -1,0 +1,11 @@
+createSoal(1, 'Contoh benda padat adalah . . . .');
+createJawaban('a. Minyak', 0, 1);
+createJawaban('b. Kecap', 0, 1);
+createJawaban('c. Lilin', 1, 1);
+createJawaban('d. Susu', 0, 1);
+
+createSoal(2, 'Contoh benda padat adalah . . . .');
+createJawaban('a. Minyak', 0, 1);
+createJawaban('b. Kecap', 0, 1);
+createJawaban('c. Lilin', 1, 1);
+createJawaban('d. Susu', 0, 1);
